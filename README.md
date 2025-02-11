@@ -156,3 +156,8 @@ This repository contains the source code of a web page that can generate and sol
 </p>
 
 <br/>
+
+
+# 🙏 Credits
+
+* [**Angel Uriot**](https://github.com/angeluriot) : Creator of the project.
