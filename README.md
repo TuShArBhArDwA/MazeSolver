@@ -9,7 +9,7 @@
 
 This repository contains the source code of a web page that can generate and solve mazes using several algorithms. You can also move the start and the finish or draw your own walls.
 
-The web page is online at the address : **https://maze-solver-beta.vercel.app/**.
+**[Live Demo](https://mazesolve.vercel.app/)**
 
 <br/>
 
