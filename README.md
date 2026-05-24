@@ -9,7 +9,7 @@
 
 This repository contains the source code of a web page that can generate and solve mazes using several algorithms. You can also move the start and the finish or draw your own walls.
 
-The web page is live at **[Click Me](https://mazesolve.vercel.app/)**. Try it out and solve mazes effortlessly!
+The web page is live at **[Click Me](https://maze.minianon.in)**. Try it out and solve mazes effortlessly!
 
 
 <br/>
@@ -162,3 +162,11 @@ The web page is live at **[Click Me](https://mazesolve.vercel.app/)**. Try it ou
 # 🙏 Credits
 
 * [**Angel Uriot**](https://github.com/angeluriot) : Creator of the project.
+
+
+---
+
+## Connect with me
+
+If you’d like to connect, feel free to reach out — [Click here](https://minianonlink.vercel.app/tusharbhardwaj)
+
